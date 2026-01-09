@@ -29,10 +29,10 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Skills & Tools</h2>
 
-<div style="overflow-x: auto;">
-<table style="width: 100%; display: table; table-layout: fixed; margin: 0 auto;">
+<div style="display: flex; justify-content: center;">
+<table style="width: auto; display: table; table-layout: fixed; margin: 0 auto;">
 <tr>
-<td style="padding: 20px; width: 20%; box-sizing: border-box;">
+<td style="padding: 20px; width: 200px; box-sizing: border-box;">
 <strong>Testing Skills</strong><br/>
 • API, System, UI/UX, DB<br/>
 • Functional & Non-functional<br/>
@@ -40,7 +40,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 • Manual & Automation<br/>
 • Mobile & Web
 </td>
-<td style="padding: 20px; width: 15%; text-align: center; box-sizing: border-box;">
+<td style="padding: 20px; width: 150px; text-align: center; box-sizing: border-box;">
 <strong>Languages</strong><br/><br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="max-width: 100%; height: auto;"><br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" style="max-width: 100%; height: auto;"><br/>
@@ -48,7 +48,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="max-width: 100%; height: auto;"><br/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" style="max-width: 100%; height: auto;">
 </td>
-<td style="padding: 20px; width: 50%; text-align: center; box-sizing: border-box;">
+<td style="padding: 20px; width: 400px; text-align: center; box-sizing: border-box;">
 <strong>Tools</strong><br/><br/>
 <strong style="font-size: 13px;">API & Testing</strong><br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="max-width: 100%; height: auto;"><br/>
@@ -68,7 +68,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" style="max-width: 100%; height: auto;"><br/>
 <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome DevTools" style="max-width: 100%; height: auto;">
 </td>
-<td style="padding: 20px; width: 15%; box-sizing: border-box;">
+<td style="padding: 20px; width: 150px; box-sizing: border-box;">
 <strong>Soft Skills</strong><br/>
 • Clear communication<br/>
 • Attention to detail<br/>

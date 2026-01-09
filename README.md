@@ -29,9 +29,50 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <h2 align="center">Skills & Tools</h2>
 
-| Testing Skills | Languages | Tools | Soft Skills |
-|---|---|---|---|
-| • API, System, UI/UX, DB<br/>• Functional & Non-functional<br/>• Requirement-based & Risk-based<br/>• Manual & Automation<br/>• Mobile & Web | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)<br/>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | **API & Testing**<br/>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)<br/>![Thunder Client](https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square&logo=thunder&logoColor=white)<br/><br/>**Automation**<br/>![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)<br/>![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)<br/>![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)<br/>![JUnit](https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white)<br/><br/>**Management**<br/>![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)<br/>![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)<br/><br/>**Dev & Version**<br/>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br/>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)<br/>![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)<br/>![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)<br/>![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white) | • Clear communication<br/>• Attention to detail<br/>• Problem-solving<br/>• Collaboration<br/>• Time management |
+<table style="border-collapse: collapse; border: none; width: 100%; table-layout: fixed;">
+<tr>
+<td style="border: none; padding: 15px; width: 20%; box-sizing: border-box;">
+<strong>Testing Skills</strong><br/>
+• API, System, UI/UX, DB<br/>
+• Functional & Non-functional<br/>
+• Requirement-based & Risk-based<br/>
+• Manual & Automation<br/>
+• Mobile & Web
+</td>
+<td style="border: none; padding: 15px; width: 15%; text-align: center; box-sizing: border-box;">
+<strong>Languages</strong><br/><br/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"><br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+</td>
+<td style="border: none; padding: 15px; width: 35%; text-align: center; box-sizing: border-box;">
+<strong>Tools</strong><br/><br/>
+<strong style="font-size: 12px;">API & Testing</strong><br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br/>
+<img src="https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square&logo=thunder&logoColor=white" alt="Thunder Client"><br/>
+<strong style="font-size: 12px;">Automation</strong><br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"><br/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"><br/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"><br/>
+<img src="https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"><br/>
+<strong style="font-size: 12px;">Management</strong><br/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"><br/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"><br/>
+<strong style="font-size: 12px;">Dev & Version</strong><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"><br/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"><br/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome DevTools">
+</td>
+<td style="border: none; padding: 10px; width: 15%;">
+<strong>Soft Skills</strong><br/>
+• Clear communication<br/>
+• Attention to detail<br/>
+• Problem-solving<br/>
+• Collaboration<br/>
 • Time management
 </td>
 </tr>

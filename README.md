@@ -2,12 +2,13 @@
 
 <img align="right" src="assets/MyAvatar.png" width="150" style="border-radius: 10px; margin-left: 20px;" />
 
-- A Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all), committed to learning software quality practices  
-- Deeply interested in building reliable, well-tested systems through thoughtful testing  
-- Documenting my learning journey through technical writing, [Doing Is Learning](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741)  
-- Continuously [exploring QA methodologies and testing best practices](#articles-i-read)  
-- Keen to understand emerging fields like AI, Data & Cloud technologies  
-- Actively engaging with QA communities to grow both professionally and personally
+- A Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
+- 💭 I like to learn, grow, and collaborate.
+- Focused on building reliable, well-tested systems
+- 📖 Writing technical blogs, [Doing Is Learning](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741)
+- [Exploring QA methodologies and best practices](#articles-i-read)
+- 🌱 Learning about AI, Data & Cloud technologies
+- Engaging with QA communities
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 

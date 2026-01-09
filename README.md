@@ -50,10 +50,18 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <td style="border: none; padding: 10px; width: 33.33%; text-align: center;">
 <strong>Tools</strong><br/><br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br/>
+<img src="https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square&logo=thunder&logoColor=white" alt="Thunder Client"><br/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"><br/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"><br/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"><br/>
+<img src="https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"><br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"><br/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"><br/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"><br/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome DevTools">
 </td>
 </tr>
 </table>

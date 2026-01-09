@@ -103,15 +103,17 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 - [Prioritizing Test Cases: Best Practice for QA Teams](https://www.pixelqa.com/blog/post/prioritizing-test-cases-best-practice-for-qa-teams) | PixelQA
 - [Test Plan Template - Software Testing](https://www.geeksforgeeks.org/software-testing/test-plan-template/) | GeeksforGeeks
 - [Test plan template](https://www.atlassian.com/software/confluence/resources/guides/how-to/test-plan) | Atlassian
-- [Testing Objectives: Key Goals & Examples for Effective Software QA](https://iteratorstesting.com/blog/testing-objectives) | Iterator's Testing
+- [Testing Objectives: Key Goals & Examples for Effective Software QA (2025 Guide)](https://iteratorstesting.com/blog/testing-objectives) | Iterators Software Testing
 - [Software Testing Strategies](https://www.geeksforgeeks.org/software-engineering/software-testing-strategies/) | GeeksforGeeks
-- [Software Testing Metrics](https://www.geeksforgeeks.org/software-testing/software-testing-metrics-its-types-and-example/) | GeeksforGeeks
+- [Software Testing Metrics, its Types and Example](https://www.geeksforgeeks.org/software-testing/software-testing-metrics-its-types-and-example/) | GeeksforGeeks
 - [Defining Exit Criteria for All Stages of Your Agile Project](https://www.testrail.com/blog/agile-exit-criteria/) | TestRail
 - [DORA metrics in 2023: 5 ways to measure DevOps performance](https://www.getunleash.io/blog/dora-metrics-devops-performance) | Unleash
 - [DORA Metrics](https://www.atlassian.com/devops/frameworks/dora-metrics) | Atlassian
 - [How to identify and manage software testing risks](https://smartbear.com/blog/software-testing-risks/) | SmartBear
 - [Web Application Security Threats in 2025: 10 Critical Risks Every Organization Must Address](https://www.stackhawk.com/blog/10-web-application-security-threats-and-how-to-mitigate-them/) | StackHawk
 - [Web Security Risks in Modern Applications](https://www.micromindercs.com/blog/web-security-risks-in-modern-applications) | MicroMinder
+- [OWASP Top 10 - The 10 Most Critical Web Application Security Risks](https://owasp.org/www-project-top-ten/) | OWASP
+- [OWASP Top 10 2021: A Guide to Web Application Security](https://www.geeksforgeeks.org/owasp-top-10-2021-guide-to-web-application-security/) | GeeksforGeeks
 - [15 Mistakes in E-Commerce Platforms You Can Prevent with Software Testing](https://www.qamadness.com/15-mistakes-in-e-commerce-platforms-you-can-prevent-with-software-testing/) | QA Madness
 - [Critical Software Bugs Every Tester Should Know](https://quashbugs.com/blog/critical-software-bugs-every-tester-should-know) | Quash
 

@@ -1,7 +1,7 @@
 # Hi, there! I'm Garam Yoon
 
 <img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px;" />
-*Software QA Tester/Engineer*
+<i>Software QA Tester/Engineer</i>
 
 I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering smarter testing approaches. Detail-oriented and always curious about how things fail.
 
@@ -30,7 +30,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <h2 align="center">Skills & Tools</h2>
 
 <div align="center">
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: auto; table-layout: fixed;">
 <tr>
 <td style="padding: 20px; width: 200px; box-sizing: border-box;">
 <strong>Testing Skills</strong><br/>

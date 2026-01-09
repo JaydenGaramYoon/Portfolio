@@ -1,6 +1,7 @@
 # Hi, there! I'm Garam Yoon
 
 <img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px;" />
+*Software QA Tester/Engineer*
 
 I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering smarter testing approaches. Detail-oriented and always curious about how things fail.
 
@@ -14,7 +15,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <div align="center">
 
-#### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
 </div>
 
@@ -26,21 +27,28 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 - Created comprehensive bug reports with detailed root cause analysis and best testing practices research
 - Designed and executed test cases within Agile sprints
 
-<h2 align="center">Testing Skills</h2>
+<h2 align="center">Testing Skills & Programming Languages</h2>
 
-- API, System, UI/UX, DB
-- Functional & Non-functional
-- Requirement-based & Risk-based
-- Manual & Automation
-- Mobile & Web
-
-<h2 align="center">Programming Languages</h2>
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<table style="border-collapse: collapse; border: none; width: 100%;">
+<tr>
+<td style="border: none; padding: 10px; width: 50%;">
+<strong>Testing Skills</strong><br/>
+• API, System, UI/UX, DB<br/>
+• Functional & Non-functional<br/>
+• Requirement-based & Risk-based<br/>
+• Manual & Automation<br/>
+• Mobile & Web
+</td>
+<td style="border: none; padding: 10px; width: 50%; text-align: center;">
+<strong>Programming Languages</strong><br/><br/>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)<br/>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+</td>
+</tr>
+</table>
 
 <h2 align="center">Tools</h2>
 

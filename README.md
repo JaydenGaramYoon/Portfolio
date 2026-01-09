@@ -113,7 +113,6 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 - [Web Application Security Threats in 2025: 10 Critical Risks Every Organization Must Address](https://www.stackhawk.com/blog/10-web-application-security-threats-and-how-to-mitigate-them/) | StackHawk
 - [Web Security Risks in Modern Applications](https://www.micromindercs.com/blog/web-security-risks-in-modern-applications) | MicroMinder
 - [OWASP Top 10 - The 10 Most Critical Web Application Security Risks](https://owasp.org/www-project-top-ten/) | OWASP
-- [OWASP Top 10 2021: A Guide to Web Application Security](https://www.geeksforgeeks.org/owasp-top-10-2021-guide-to-web-application-security/) | GeeksforGeeks
 - [15 Mistakes in E-Commerce Platforms You Can Prevent with Software Testing](https://www.qamadness.com/15-mistakes-in-e-commerce-platforms-you-can-prevent-with-software-testing/) | QA Madness
 - [Critical Software Bugs Every Tester Should Know](https://quashbugs.com/blog/critical-software-bugs-every-tester-should-know) | Quash
 

@@ -2,13 +2,12 @@
 
 <img align="right" src="assets/MyAvatar.png" width="150" style="border-radius: 10px; margin-left: 20px;" />
 
-- Junior QA Engineer Intern @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*  
-- [Passionate about building reliable software through thoughtful testing practices](#testing-skills)  
-- [Designing comprehensive test cases and documenting bugs systematically](#testing-skills)  
-- [Collaborating with teams to improve product quality](#soft-skills)  
-- [Reading widely about QA and testing best practices](#articles-i-read)  
-- [Actively exploring AI, data, and cloud technologies](#courses)  
-- I write technical blog, [Doing Is Learning](https://www.notion.so/Writing-Effective-Postman-Test-Scripts-2d997141ccc380d9abbbe26c08f8f546?pvs=74)
+- A Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all), committed to learning software quality practices  
+- Deeply interested in building reliable, well-tested systems through thoughtful testing  
+- Documenting my learning journey through technical writing, [Doing Is Learning](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741)  
+- Continuously [exploring QA methodologies and testing best practices](#articles-i-read)  
+- Keen to understand emerging fields like AI, Data & Cloud technologies  
+- Actively engaging with QA communities to grow both professionally and personally
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 

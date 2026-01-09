@@ -4,8 +4,8 @@
 
 Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in software quality, mobile-first testing, and requirements-based validation. I am particularly focused on release quality, regression risk reduction, and clear QA documentation, and I continuously work on improving my skills through projects, automation practice, and technical reading.
 
-**LinkedIn:** [linkedin.com/in/garam-yoon](https://www.linkedin.com/in/garam-yoon/)  
-**QA Projects:** [github.com/JaydenGaramYoon/QA-Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+#### [LinkedIn](https://www.linkedin.com/in/garam-yoon/)  
+#### [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
 ## Experience
 
@@ -66,18 +66,20 @@ Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in so
 
 ## Courses
 
-- Software Testing and Quality | Quality Assurance vs Quality Control, Agile Manifesto Principles, Test Design Techniques
-- UI Smart Devices | TensorFlow Lite for Image Classification, Smart Device UI Design, Voice/Text Conversational Interfaces, IoT & Wearables
-- Software Systems Design | Software Engineering Design Principles, Re-usability & Design Patterns, UML & Database Design
-- Software Development Project I | Requirements Gathering, Agile Methodologies, Design & Implementation
-- Web Application Development | Responsive Front-end UI, Server-side Backend Framework, Database Solutions
-- Application Development (MERN Stack) | React Components, Node.js Backend, MongoDB Database
-- Advanced Database Concepts (Oracle, NoSQL)
-- Java Programming | Java SE Platform, Advanced OOP Features, JavaFX Rich Client Applications
-- Programming in C# | Computer Organization & Architecture, Software Engineering Principles, Software Process Models
-- Unix/Linux Operating Systems | Project Management, Decision Analysis, Feasibility Studies
-- Discrete Mathematics | Requirements Gathering, Agile Analysis & Estimation, Design Implementation
-- Functions & Number Systems | Operations on Real/Rational Numbers, Binary/Octal/Hexadecimal Systems, Linear & Quadratic Equations
+| Course | Learning Objectives |
+|--------|---------------------|
+| Software Testing and Quality | Quality Assurance vs Quality Control, Agile Manifesto Principles, Test Design Techniques |
+| UI Smart Devices | TensorFlow Lite for Image Classification, Smart Device UI Design, Voice/Text Conversational Interfaces, IoT & Wearables |
+| Software Systems Design | Software Engineering Design Principles, Re-usability & Design Patterns, UML & Database Design |
+| Software Development Project I | Requirements Gathering, Agile Methodologies, Design & Implementation |
+| Web Application Development | Responsive Front-end UI, Server-side Backend Framework, Database Solutions |
+| Application Development (MERN Stack) | React Components, Node.js Backend, MongoDB Database |
+| Advanced Database Concepts (Oracle, NoSQL) | - |
+| Java Programming | Java SE Platform, Advanced OOP Features, JavaFX Rich Client Applications |
+| Programming in C# | Computer Organization & Architecture, Software Engineering Principles, Software Process Models |
+| Unix/Linux Operating Systems | Project Management, Decision Analysis, Feasibility Studies |
+| Discrete Mathematics | Requirements Gathering, Agile Analysis & Estimation, Design Implementation |
+| Functions & Number Systems | Operations on Real/Rational Numbers, Binary/Octal/Hexadecimal Systems, Linear & Quadratic Equations |
 
 ## Certificates
 
@@ -112,7 +114,7 @@ Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in so
 ## IT Groups / Communities I Follow
 
 - [The Test Tribe Toronto](https://www.thetesttribe.com/)
-- IEEE Engineering Club | Centennial College
+- [IEEE Engineering Club | Centennial College](https://edu.ieee.org/ca-centennial-college/)
 - [ISTQB (International Software Testing Qualifications Board) Certified Professionals](https://www.linkedin.com/groups/99444/)
 - [Software Testing & Automation ](https://www.linkedin.com/groups/55636/)
 - [Quality Assurance - QA Professional, Testing, Test Automation, SDET](https://www.linkedin.com/groups/60879/)

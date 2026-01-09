@@ -1,6 +1,6 @@
 # Portfolio
 
-## About Me
+## Hi, there! I am a Software QA Tester.
 
 <img align="right" src="assets/MyAvatar.png" width="150" style="border-radius: 10px; margin-left: 20px;" />
 

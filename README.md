@@ -27,11 +27,11 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 - Created comprehensive bug reports with detailed root cause analysis and best testing practices research
 - Designed and executed test cases within Agile sprints
 
-<h2 align="center">Testing Skills & Programming Languages</h2>
+<h2 align="center">Testing Skills, Programming Languages & Tools</h2>
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
-<td style="border: none; padding: 10px; width: 50%;">
+<td style="border: none; padding: 10px; width: 33.33%;">
 <strong>Testing Skills</strong><br/>
 • API, System, UI/UX, DB<br/>
 • Functional & Non-functional<br/>
@@ -39,7 +39,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 • Manual & Automation<br/>
 • Mobile & Web
 </td>
-<td style="border: none; padding: 10px; width: 50%; text-align: center;">
+<td style="border: none; padding: 10px; width: 33.33%; text-align: center;">
 <strong>Programming Languages</strong><br/><br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"><br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br/>
@@ -47,37 +47,16 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
 </td>
+<td style="border: none; padding: 10px; width: 33.33%; text-align: center;">
+<strong>Tools</strong><br/><br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"><br/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</td>
 </tr>
 </table>
-
-<h2 align="center">Tools</h2>
-
-**API & Testing Tools:**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square&logo=thunder&logoColor=white)
-
-**UI & Automation**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-
-**Testing & Unit:**  
-![JUnit](https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white)
-![Testem](https://img.shields.io/badge/Testem-0071B5?style=flat-square&logoColor=white)
-
-**Issue Tracking & Documentation**  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-
-**Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Development & Debugging**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 <h2 align="center">Soft Skills</h2>
 

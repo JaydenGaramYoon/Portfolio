@@ -1,6 +1,6 @@
 # Hi, there! I'm Garam Yoon
 
-<img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px; margin-right: 60px;" />
+<img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px; margin-right: 150px;" />
 
 - Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
 - 💭 I like to learn, grow, and collaborate.

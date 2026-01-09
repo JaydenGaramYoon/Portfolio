@@ -2,12 +2,9 @@
 
 ## About Me
 
-<div style="display: flex; gap: 30px; align-items: flex-start;">
-  <div style="flex: 1;">
-    I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I focus on mobile-first testing and quality assurance. I'm drawn to building reliable software through thoughtful testing practices, whether that's designing comprehensive test cases, documenting bugs systematically, or collaborating with teams to improve product quality. Beyond my day-to-day work, I read widely about QA and testing, and I'm actively exploring AI, data, and cloud technologies. These emerging areas intrigue me, and I'm committed to building expertise across them as I grow as an engineer.
-  </div>
-  <img src="assets/MyAvatar.png" width="150" style="border-radius: 10px; margin-left: auto; flex-shrink: 0;" />
-</div>
+| | |
+|---|---|
+| I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I focus on mobile-first testing and quality assurance. I'm drawn to building reliable software through thoughtful testing practices, whether that's designing comprehensive test cases, documenting bugs systematically, or collaborating with teams to improve product quality. Beyond my day-to-day work, I read widely about QA and testing, and I'm actively exploring AI, data, and cloud technologies. These emerging areas intrigue me, and I'm committed to building expertise across them as I grow as an engineer. | <img src="assets/MyAvatar.png" width="150" style="border-radius: 10px;" /> |
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 

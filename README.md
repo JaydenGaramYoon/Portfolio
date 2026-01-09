@@ -1,11 +1,9 @@
 # Portfolio
 
-## About Me
+## About Me | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garam-yoon/) [![QA Projects](https://img.shields.io/badge/QA%20Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaydenGaramYoon/QA-Projects)
+
 
 Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in software quality, mobile-first testing, and requirements-based validation. I am particularly focused on release quality, regression risk reduction, and clear QA documentation, and I continuously work on improving my skills through projects, automation practice, and technical reading.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garam-yoon/)
-[![QA Projects](https://img.shields.io/badge/QA%20Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaydenGaramYoon/QA-Projects)
 
 ## Experience
 

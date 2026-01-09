@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in software quality, mobile-first testing, and requirements-based validation. I am particularly focused on release quality, regression risk reduction, and clear QA documentation, and I continuously work on improving my skills through projects, automation practice, and technical reading.
+I'm Garam Yoon, a Junior QA Engineer currently interning at Bonniepet, where I focus on mobile-first testing and quality assurance. I'm drawn to building reliable software through thoughtful testing practices—whether that's designing comprehensive test cases, documenting bugs systematically, or collaborating with teams to improve product quality. Beyond my day-to-day work, I read widely about QA and testing, and I'm actively exploring AI, data, and cloud technologies. These emerging areas intrigue me, and I'm committed to building expertise across them as I grow as an engineer.
 
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 
@@ -67,17 +67,17 @@ Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in so
 
 ## Courses
 
-**🎓 Centennial College (Software Engineering Technician)**
+**🎓 Centennial College (Software Engineering Technician Program)**
 
 | Course | Learning Objectives |
 |--------|---------------------|
-| Software Testing and Quality | Quality Assurance vs Quality Control, Agile Manifesto Principles, Test Design Techniques |
+| Software Testing and Quality Assurance| Quality Assurance vs Quality Control, Agile Manifesto Principles, Test Design Techniques |
 | UI Smart Devices | TensorFlow Lite for Image Classification, Smart Device UI Design, Voice/Text Conversational Interfaces, IoT & Wearables |
 | Software Systems Design | Software Engineering Design Principles, Re-usability & Design Patterns, UML & Database Design |
 | Software Development Project I | Requirements Gathering, Agile Methodologies, Design & Implementation |
 | Web Application Development | Responsive Front-end UI, Server-side Backend Framework, Database Solutions |
 | Application Development (MERN Stack) | React Components, Node.js Backend, MongoDB Database |
-| Advanced Database Concepts (Oracle, NoSQL) | - |
+| Advanced Database Concepts (Oracle, NoSQL) | RDBMS & NoSQL Database Systems, Advanced SQL & PLSQL, Database Security & Optimization |
 | Java Programming | Java SE Platform, Advanced OOP Features, JavaFX Rich Client Applications |
 | Programming in C# | Computer Organization & Architecture, Software Engineering Principles, Software Process Models |
 | Unix/Linux Operating Systems | Project Management, Decision Analysis, Feasibility Studies |

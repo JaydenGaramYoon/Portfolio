@@ -4,8 +4,7 @@
 
 Hi, my name is **Garam Yoon**, a Junior QA Engineer with a strong interest in software quality, mobile-first testing, and requirements-based validation. I am particularly focused on release quality, regression risk reduction, and clear QA documentation, and I continuously work on improving my skills through projects, automation practice, and technical reading.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
-🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+#### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)    🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
 ## Experience
 

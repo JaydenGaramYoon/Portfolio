@@ -2,7 +2,7 @@
 
 <img align="right" src="assets/MyAvatar.png" width="300" style="border-radius: 10px; margin-left: 20px;" />
 
-- A Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
+- Junior QA Engineer at [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
 - 💭 I like to learn, grow, and collaborate.
 - Focused on building reliable, well-tested systems
 - 📖 Writing technical blogs, [Doing Is Learning](https://www.notion.so/1e097141ccc38075bc31eb034c0910ef?v=1e097141ccc380219636000c91bf3741)
@@ -13,6 +13,8 @@
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/)
 
 #### 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+
+<h2 align="center">Experience</h2>
 
 **Mobile QA Tester Intern** @ [Bonniepet](https://www.linkedin.com/company/bonniepet/posts/?feedView=all) | *Dec 2025 ~ Present*
 - Supported QA activities for a mobile-first consumer platform

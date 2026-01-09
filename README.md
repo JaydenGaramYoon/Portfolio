@@ -3,7 +3,7 @@
 <img align="right" src="assets/MyAvatar.png" width="250" style="margin-left: 20px;" />
 <i>Software QA Tester/Engineer</i>
 
----
+<br /> 
 
 I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering smarter testing approaches. Detail-oriented and always curious about how things fail.
 

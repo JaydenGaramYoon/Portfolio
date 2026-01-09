@@ -30,9 +30,9 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 <h2 align="center">Skills & Tools</h2>
 
 <div style="overflow-x: auto;">
-<table style="width: 100vw; margin-left: calc(-50vw + 50%); table-layout: auto;">
+<table style="width: 100%; display: table; table-layout: fixed; margin: 0 auto;">
 <tr>
-<td style="padding: 20px; flex: 1; min-width: 200px;">
+<td style="padding: 20px; width: 20%; box-sizing: border-box;">
 <strong>Testing Skills</strong><br/>
 • API, System, UI/UX, DB<br/>
 • Functional & Non-functional<br/>
@@ -40,35 +40,35 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 • Manual & Automation<br/>
 • Mobile & Web
 </td>
-<td style="padding: 20px; flex: 1; min-width: 150px; text-align: center;">
+<td style="padding: 20px; width: 15%; text-align: center; box-sizing: border-box;">
 <strong>Languages</strong><br/><br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"><br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" style="max-width: 100%; height: auto;">
 </td>
-<td style="padding: 20px; flex: 2; min-width: 300px; text-align: center;">
+<td style="padding: 20px; width: 50%; text-align: center; box-sizing: border-box;">
 <strong>Tools</strong><br/><br/>
 <strong style="font-size: 13px;">API & Testing</strong><br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br/>
-<img src="https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square" alt="Thunder Client"><br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/Thunder%20Client-1E90FF?style=flat-square" alt="Thunder Client" style="max-width: 100%; height: auto;"><br/>
 <strong style="font-size: 13px; margin-top: 10px;">Automation</strong><br/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"><br/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"><br/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"><br/>
-<img src="https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"><br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/JUnit-25A217?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" style="max-width: 100%; height: auto;"><br/>
 <strong style="font-size: 13px; margin-top: 10px;">Management</strong><br/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"><br/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square" alt="Confluence"><br/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square" alt="Confluence" style="max-width: 100%; height: auto;"><br/>
 <strong style="font-size: 13px; margin-top: 10px;">Dev & Version</strong><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"><br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"><br/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"><br/>
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome DevTools">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" style="max-width: 100%; height: auto;"><br/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome DevTools" style="max-width: 100%; height: auto;">
 </td>
-<td style="padding: 20px; flex: 1; min-width: 150px;">
+<td style="padding: 20px; width: 15%; box-sizing: border-box;">
 <strong>Soft Skills</strong><br/>
 • Clear communication<br/>
 • Attention to detail<br/>

@@ -14,7 +14,7 @@ I'm a QA Tester who enjoys hunting bugs in unconventional ways and discovering s
 
 <div align="center">
 
-#### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/garam-yoon/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔎︎ [QA Projects](https://github.com/JaydenGaramYoon/QA-Projects)
 
 </div>
 
